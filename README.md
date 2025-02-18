@@ -76,7 +76,7 @@ As junior developers, we collaboratively designed and developed this real estate
 ## 🔧 Installation & Setup
  Clone the repository:
 ```sh
- git clone https://github.com/AlaaSa3di/Farm-rent-project-5.git
+ git clone https://github.com/Rent-App-JSX/farm-rent.git
 ```
 
 ## 🏗 Future Enhancements
@@ -84,10 +84,17 @@ As junior developers, we collaboratively designed and developed this real estate
 - 📊 Dynamic property comparison tool.
 
 
-## 📞 Contact
-For any inquiries or support:
-- **📧 Email:** alaa.sadi95@gmail.com
-- **💻 GitHub:** [AlaaSa3di](https://github.com/AlaaSa3di)
+
+👥 Team Members & Roles
+| Name | Role |
+|------------|------------------------|
+| Alaa | Scrum Master |
+| Faisal | Product Owner |
+| Raghad | Quality Assurance |
+| Mustafa | Developer |
+| Jenan | Developer |
+| Ahmad | Developer |
+
 ## 📌 Project Links:
 
 - [📋 Trello Board](https://trello.com/b/A6U1JCQI/rent-app)
