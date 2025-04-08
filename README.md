@@ -85,16 +85,6 @@ As junior developers, we collaboratively designed and developed this real estate
 
 
 
-👥 Team Members & Roles
-| Name | Role |
-|------------|------------------------|
-| Alaa | Scrum Master |
-| Faisal | Product Owner |
-| Raghad | Quality Assurance |
-| Mustafa | Developer |
-| Jenan | Developer |
-| Ahmad | Developer |
-
 ## 📌 Project Links:
 
 - [📋 Trello Board](https://trello.com/b/A6U1JCQI/rent-app)
